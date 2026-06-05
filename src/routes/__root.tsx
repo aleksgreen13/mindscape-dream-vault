@@ -87,8 +87,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "Lovable App" },
       { name: "twitter:description", content: "Mindscape Vaults is a puzzle-adventure game set in a digital dream world with a rich narrative." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f164a03b-42e2-4385-aad0-5c7d14642d59/id-preview-3a9d5aff--28a459b0-75cb-4316-ac69-a4c06164aa9b.lovable.app-1780596998642.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f164a03b-42e2-4385-aad0-5c7d14642d59/id-preview-3a9d5aff--28a459b0-75cb-4316-ac69-a4c06164aa9b.lovable.app-1780596998642.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7bc92fa0-3884-43d9-bfb6-d634cd6f4eb6/id-preview-97a9aad7--28a459b0-75cb-4316-ac69-a4c06164aa9b.lovable.app-1780607322084.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7bc92fa0-3884-43d9-bfb6-d634cd6f4eb6/id-preview-97a9aad7--28a459b0-75cb-4316-ac69-a4c06164aa9b.lovable.app-1780607322084.png" },
     ],
     links: [
       {
