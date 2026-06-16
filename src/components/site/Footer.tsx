@@ -1,4 +1,8 @@
-import { Twitter, Instagram, Youtube, Github } from "lucide-react";
+import { Send, Camera, Play, Code2 } from "lucide-react";
+const Twitter = Send;
+const Instagram = Camera;
+const Youtube = Play;
+const Github = Code2;
 
 export function Footer() {
   return (
