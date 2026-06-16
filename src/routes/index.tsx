@@ -32,6 +32,7 @@ function Index() {
       <Gallery />
       <Waitlist />
       <Footer />
+      <PuzzleChat />
     </main>
   );
 }
