@@ -6,6 +6,7 @@ import { Features } from "@/components/site/Features";
 import { Gallery } from "@/components/site/Gallery";
 import { Waitlist } from "@/components/site/Waitlist";
 import { Footer } from "@/components/site/Footer";
+import { PuzzleChat } from "@/components/site/PuzzleChat";
 
 export const Route = createFileRoute("/")({
   head: () => ({
