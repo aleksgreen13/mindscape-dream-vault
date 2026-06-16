@@ -1,4 +1,4 @@
-import { Twitter, Instagram, Youtube, Github } from "lucide-react";
+import { Twitter, Instagram, Youtube, Github } from "@/components/icons/social";
 
 export function Footer() {
   return (
